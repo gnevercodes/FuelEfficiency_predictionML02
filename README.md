@@ -37,7 +37,18 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ganeshgun
 ## repo structure: 
 ```
 fuel-efficiency-prediction/
-├── ULTIMATE.ipynb
 ├── README.md
 ├── .gitignore
+├── requirements.txt            
+├── code/                           
+│   ├── ULTIMATE.ipynb
+│   └── preprocessing.py           
+├── docs/                          
+│   ├── architecture.md          
+│   └── evaluation_report.md       
+├── data/                           
+│   └── mpg_dataset.csv             
+└── assets/                        
+    └── correlation_matrix.png
+
 ```
