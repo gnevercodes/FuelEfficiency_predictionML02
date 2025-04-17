@@ -15,6 +15,10 @@ This project uses machine learning to predict vehicle fuel efficiency based on v
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
+## 📊 Dataset Used
+The dataset used for this project is publicly available on [Kaggle: MPG Raw Dataset](https://www.kaggle.com/datasets/fseafp1/mpg-raw).  
+It contains attributes like cylinders, displacement, horsepower, weight, acceleration, and model year to help predict vehicle fuel efficiency (MPG).
+
 ## 📌 Features
 - Data Cleaning and Preprocessing
 - Correlation and Exploratory Data Analysis (EDA)
